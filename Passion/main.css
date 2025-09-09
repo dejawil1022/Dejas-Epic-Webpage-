@@ -1,0 +1,15 @@
+p {
+    color:aliceblue
+
+    
+}
+.center { display: block; margin-left: auto; margin-right: auto; width: 50%; }
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+
+   @font-face { font-family: Epunda_Slab; src: url('EpundaSlab-VariableFont_wght.ttf'); 
+font-weight: normal;
+        font-style: normal;
+    } 
+ 
